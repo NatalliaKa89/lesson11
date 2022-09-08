@@ -5,7 +5,7 @@ public class Task03 {
         Random random = new Random();
 
         // random floating point numbers
-        //for (int i = 0; i < 10; i++) {
+        // for (int i = 0; i < 10; i++) {
         //  System.out.println(random.nextDouble() + " ");
         //}
 
